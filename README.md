@@ -1,2 +1,2 @@
-# CCM-vcostales
+# CCM101-vcostales
 Cloud Computing laboratory activities and portfolio for CCM101.
