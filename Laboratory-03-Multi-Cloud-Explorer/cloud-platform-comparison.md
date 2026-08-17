@@ -25,3 +25,13 @@ Google Cloud Platform (GCP) is the industry leader in Kubernetes and artificial 
 
 ### 4. Which cloud platform would you personally choose and why?
 I would personally choose AWS due to its market dominance, vast documentation, and comprehensive global infrastructure. The massive developer community and extensive third-party tool integrations make learning and troubleshooting within AWS exceptionally convenient. Furthermore, mastering AWS skills provides strong career leverage given its widespread enterprise adoption worldwide.
+
+## Service Equivalence Reference Table
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
