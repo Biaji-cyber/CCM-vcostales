@@ -39,3 +39,16 @@
   1. **Amazon EC2 Auto Scaling:** To dynamically match compute resources with real-time shopping traffic.
   2. **Amazon CloudFront:** A global content delivery network (CDN) to accelerate asset loading worldwide.
   3. **Amazon Aurora:** A high-performance, globally distributed relational database for processing online transactions.
+
+---
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+| :--- | :--- | :--- |
+| **Startup Company** | Amazon Web Services (AWS) | Flexible pay-as-you-go pricing, rapid scalability, and extensive startup credits/support ecosystem. |
+| **Enterprise Organization** | Amazon Web Services (AWS) | Broadest range of mature services, extensive compliance certifications, and global footprint. |
+| **Microsoft Environment** | Microsoft Azure | Native integration with Windows Server, Active Directory, Office 365, and licensing cost savings via Azure Hybrid Benefit. |
+| **AI / Machine Learning** | Google Cloud Platform (GCP) | Specialized hardware like TPUs, deep integration with TensorFlow, and robust machine learning tools like Vertex AI. |
+| **Kubernetes Deployment** | Google Cloud Platform (GCP) | Industry-leading managed Kubernetes experience (GKE) built by the original creators of Kubernetes. |
+| **Global Web Application** | Amazon Web Services (AWS) | Unmatched global network availability, multi-region database replication, and edge delivery via CloudFront. |
